@@ -1,3 +1,3 @@
-file teste
-teste
-teste
+public static void main()
+{
+}
