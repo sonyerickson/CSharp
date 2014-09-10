@@ -1,5 +1,8 @@
-public static void main()
+public static class main
 {
-	string x = 1;
-	Console.Write("First test");
+    public static string teste()
+    {
+        string x = 1;
+        Console.Write("First test");
+    }
 }
