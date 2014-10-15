@@ -1,0 +1,6 @@
+E:\Workspace-MeuDestinatário\MeuDestinatario\VerLogin\bin\Debug\VerLogin.exe.config
+E:\Workspace-MeuDestinatário\MeuDestinatario\VerLogin\bin\Debug\VerLogin.exe
+E:\Workspace-MeuDestinatário\MeuDestinatario\VerLogin\bin\Debug\VerLogin.pdb
+E:\Workspace-MeuDestinatário\MeuDestinatario\VerLogin\obj\Debug\VerLogin.csprojResolveAssemblyReference.cache
+E:\Workspace-MeuDestinatário\MeuDestinatario\VerLogin\obj\Debug\VerLogin.exe
+E:\Workspace-MeuDestinatário\MeuDestinatario\VerLogin\obj\Debug\VerLogin.pdb

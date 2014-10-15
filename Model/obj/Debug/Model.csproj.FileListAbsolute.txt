@@ -1,0 +1,5 @@
+E:\Workspace-MeuDestinatário\MeuDestinatario\Model\bin\Debug\Model.dll
+E:\Workspace-MeuDestinatário\MeuDestinatario\Model\bin\Debug\Model.pdb
+E:\Workspace-MeuDestinatário\MeuDestinatario\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Workspace-MeuDestinatário\MeuDestinatario\Model\obj\Debug\Model.dll
+E:\Workspace-MeuDestinatário\MeuDestinatario\Model\obj\Debug\Model.pdb

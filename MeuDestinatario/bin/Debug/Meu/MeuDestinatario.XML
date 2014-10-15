@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MeuDestinatario</name>
+    </assembly>
+    <members>
+        <member name="F:MeuDestinatario.Comercial.addCliente.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Comercial.addCliente.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Comercial.addCliente.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Comercial.addFornecedor.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Comercial.addFornecedor.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Comercial.addFornecedor.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Comercial.addPedido.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Comercial.addPedido.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Comercial.addPedido.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.cadFornecedor.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.cadFornecedor.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.cadFornecedor.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.receberPedido.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.receberPedido.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.receberPedido.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Configuracao.addUsuarios.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Configuracao.addUsuarios.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Configuracao.addUsuarios.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.CadUsuario.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.CadUsuario.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.CadUsuario.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Configuracao.Login.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Configuracao.Login.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Configuracao.Login.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.editPedidos.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.editPedidos.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.editPedidos.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.editUsuarios.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.editUsuarios.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.editUsuarios.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.emailForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.emailForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.emailForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Financeiro.addBanco.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Financeiro.addBanco.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Financeiro.addBanco.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Financeiro.addCondPgto.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Financeiro.addCondPgto.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Financeiro.addCondPgto.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Financeiro.addConta.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Financeiro.addConta.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Financeiro.addConta.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Financeiro.contasPagar.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Financeiro.contasPagar.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Financeiro.contasPagar.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Financeiro.editParcelas.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Financeiro.editParcelas.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Financeiro.editParcelas.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Home.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Home.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Home.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.Pedidos.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Pedidos.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Pedidos.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Program.Main">
+            <summary>
+            The main entry point for the application.
+            
+            
+            </summary>
+            
+        </member>
+        <member name="F:MeuDestinatario.Rastreamento.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.Rastreamento.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.Rastreamento.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:MeuDestinatario.ReportOne.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.ReportOne.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MeuDestinatario.ReportOne.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MeuDestinatario.SSCHPASDataSet">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:MeuDestinatario.SSCHPASDataSet.TesteDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:MeuDestinatario.SSCHPASDataSet.TesteRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:MeuDestinatario.SSCHPASDataSet.TesteRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:MeuDestinatario.SSCHPASDataSetTableAdapters.TesteTableAdapter">
+             <summary>
+            Represents the connection and commands used to retrieve and save data.
+            </summary>
+        </member>
+        <member name="T:MeuDestinatario.SSCHPASDataSetTableAdapters.TableAdapterManager">
+             <summary>
+            TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.SSCHPASDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MeuDestinatario.SSCHPASDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Update rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.SSCHPASDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MeuDestinatario.SSCHPASDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Insert rows in top-down order.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.SSCHPASDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MeuDestinatario.SSCHPASDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Delete rows in bottom-up order.
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.SSCHPASDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+             <summary>
+            Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+            </summary>
+        </member>
+        <member name="M:MeuDestinatario.SSCHPASDataSetTableAdapters.TableAdapterManager.UpdateAll(MeuDestinatario.SSCHPASDataSet)">
+             <summary>
+            Update all changes to the dataset.
+            </summary>
+        </member>
+        <member name="T:MeuDestinatario.SSCHPASDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+             <summary>
+            Update Order Option
+            </summary>
+        </member>
+        <member name="T:MeuDestinatario.SSCHPASDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+             <summary>
+            Used to sort self-referenced table's rows
+            </summary>
+        </member>
+        <member name="T:MeuDestinatario.Properties.Resources">
+            <summary>
+              Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.ResourceManager">
+            <summary>
+              Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.Culture">
+            <summary>
+              Substitui a propriedade CurrentUICulture do thread atual para todas as
+              pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.box">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.dollar_folder_icon">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.favicon_1_">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.icon_Add">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.icon_delete__1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.icon_refresh_1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.icon_save_1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.Inventory">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.Inventory_icon">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.Inventory_icon1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.Logo_2">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.mastercard_folder_icon">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.money_wallet_icon">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.Report">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:MeuDestinatario.Properties.Resources.Report_add">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+    </members>
+</doc>
