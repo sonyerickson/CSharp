@@ -1,9 +1,0 @@
-E:\Workspace-MeuDestinatário\MeuDestinatario\ContasAPagar\bin\Debug\ContasAPagar.exe.config
-E:\Workspace-MeuDestinatário\MeuDestinatario\ContasAPagar\bin\Debug\ContasAPagar.exe
-E:\Workspace-MeuDestinatário\MeuDestinatario\ContasAPagar\bin\Debug\ContasAPagar.pdb
-E:\Workspace-MeuDestinatário\MeuDestinatario\ContasAPagar\obj\Debug\ContasAPagar.Form1.resources
-E:\Workspace-MeuDestinatário\MeuDestinatario\ContasAPagar\obj\Debug\ContasAPagar.Properties.Resources.resources
-E:\Workspace-MeuDestinatário\MeuDestinatario\ContasAPagar\obj\Debug\ContasAPagar.csproj.GenerateResource.Cache
-E:\Workspace-MeuDestinatário\MeuDestinatario\ContasAPagar\obj\Debug\ContasAPagar.exe
-E:\Workspace-MeuDestinatário\MeuDestinatario\ContasAPagar\obj\Debug\ContasAPagar.pdb
-E:\Workspace-MeuDestinatário\MeuDestinatario\ContasAPagar\obj\Debug\ContasAPagar.csprojResolveAssemblyReference.cache

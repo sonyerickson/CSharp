@@ -1,5 +1,0 @@
-E:\Workspace-MeuDestinatário\MeuDestinatario\Access\bin\Debug\Access.dll
-E:\Workspace-MeuDestinatário\MeuDestinatario\Access\bin\Debug\Access.pdb
-E:\Workspace-MeuDestinatário\MeuDestinatario\Access\obj\Debug\Access.csprojResolveAssemblyReference.cache
-E:\Workspace-MeuDestinatário\MeuDestinatario\Access\obj\Debug\Access.dll
-E:\Workspace-MeuDestinatário\MeuDestinatario\Access\obj\Debug\Access.pdb

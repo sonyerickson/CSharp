@@ -1,4 +1,0 @@
-CSharp
-======
-
-C# examples files
